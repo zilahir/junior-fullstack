@@ -96,4 +96,4 @@ This just an example given to you to get the idea of having some structure given
 
 If you have a question, just open an issue here.
 
-Happy coding!
+Happy coding! :smile:
