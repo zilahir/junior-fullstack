@@ -11,3 +11,5 @@ The application have to use [this](https://dog.ceo/dog-api/documentation/) `open
 ## Layout
 
 Let's take a quick look on the layout. It's
+
+# What does this task checks?
