@@ -48,6 +48,6 @@
     "prettier": "^1.18.2"
   },
   "dependencies": {
-    "yarn": "^1.19.1"
+    "yarn": "^1.22.0"
   }
 }
